@@ -267,3 +267,89 @@ MISSION         KEEP SHIPPING 🚀
 
 </div>
 ---
+## 📡 05 // CURRENT TRANSMISSION
+
+> `INCOMING SIGNAL...`
+>
+> `SOURCE: HARSHITA // MISSION CONTROL`
+>
+> `STATUS: DECODED ✓`
+
+```text
+[12:01:04]  🛰  Developing autonomous space systems
+[12:01:18]  🤖  Exploring AI/ML for spacecraft intelligence
+[12:01:31]  🧠  Strengthening DSA & competitive programming
+[12:01:47]  🌌  Studying spacecraft dynamics & orbital mechanics
+[12:02:03]  ⚛️  Exploring quantum mechanics
+[12:02:19]  🔬  Building toward research & publication
+[12:02:35]  🚀  ORBYRX development // ACTIVE
+```
+
+<div align="center">
+
+### `TRANSMISSION CONTINUES...`
+
+**BUILD → TEST → LEARN → RESEARCH → REPEAT**
+
+</div>
+
+---
+
+## 🔭 06 // RESEARCH RADAR
+
+<div align="center">
+
+### `SCANNING FRONTIER TECHNOLOGIES...`
+
+</div>
+
+```text
+                         RESEARCH RADAR
+
+                              SPACE
+                                ▲
+                                │
+                    Autonomous Spacecraft
+                                │
+              Orbital AI ───────●─────── Space Robotics
+                             /     \
+                            /       \
+                 Sensor Fusion     AI/ML
+                         /           \
+                        /             \
+              Quantum Systems     Computer Vision
+                      │                 │
+                      └────────┬────────┘
+                               │
+                         FUTURE SYSTEMS
+```
+
+### 🧠 CURRENT RESEARCH INTERESTS
+
+🛰️ **Autonomous Spacecraft**
+> Onboard perception, estimation and intelligent decision-making.
+
+🤖 **AI for Space Systems**
+> Applying machine learning and computer vision to autonomous space operations.
+
+🌑 **Lunar Robotics**
+> Robust navigation and docking under degraded or non-line-of-sight conditions.
+
+☄️ **Space Sustainability**
+> Orbital debris intelligence, servicing and responsible end-of-life operations.
+
+⚛️ **Quantum Technologies**
+> Exploring quantum mechanics, quantum computing and future computational systems.
+
+🔬 **Scientific Research**
+> Turning engineering questions into experiments, prototypes and publishable research.
+
+<br>
+
+<div align="center">
+
+### 🌌 `CURIOSITY HAS NO FINAL FRONTIER.`
+
+</div>
+
+---
