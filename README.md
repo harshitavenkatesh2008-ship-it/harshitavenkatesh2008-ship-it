@@ -162,3 +162,65 @@ CURIOSITY        ████████████████████  M
 </div>
 
 ---
+## ⚙️ 03 // TECHNOLOGY ARSENAL
+
+<div align="center">
+
+### `TOOLS CURRENTLY IN THE HANGAR`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,vscode&theme=dark" />
+
+<br><br>
+
+**CORE DEVELOPMENT**
+
+`Python` • `C` • `C++` • `Git` • `GitHub`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=opencv,sklearn,pytorch,tensorflow&theme=dark" />
+
+<br><br>
+
+**AI / MACHINE LEARNING**
+
+`Scikit-learn` • `OpenCV` • `PyTorch` • `TensorFlow`
+
+</div>
+
+<br>
+
+### 🛰️ SPACE & ENGINEERING
+
+```text
+SPACE SYSTEMS
+├── Orbital Mechanics
+├── Spacecraft Dynamics
+├── Attitude Representation
+├── Sensor Fusion
+└── Autonomous Systems
+
+AI / COMPUTATION
+├── Machine Learning
+├── Computer Vision
+├── Data Analysis
+└── Scientific Computing
+
+ENGINEERING WORKFLOW
+├── Git / GitHub
+├── VS Code
+├── Jupyter
+└── Python Simulation
+```
+
+<br>
+
+<div align="center">
+
+`PYTHON` • `AI/ML` • `SPACECRAFT DYNAMICS` • `ORBITAL MECHANICS` • `AUTONOMY`
+
+</div>
+
+---
