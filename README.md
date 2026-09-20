@@ -409,3 +409,36 @@ NEXT OBJECTIVE       SHIP SOMETHING BETTER THAN YESTERDAY
 </div>
 
 ---
+## 📡 08 // COMMUNICATION CHANNELS
+
+<div align="center">
+
+### `ESTABLISH CONNECTION`
+
+<br>
+
+<a href="https://harshita-portfolio-kappa.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Explore_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/harshitavenkatesh2008-ship-it">
+  <img src="https://img.shields.io/badge/GITHUB-Follow_the_Build-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+`OPEN TO LEARNING` • `RESEARCH` • `COLLABORATION` • `BUILDING`
+
+<br><br>
+
+### 🌌 `END OF TRANSMISSION`
+
+**Thanks for visiting Mission Control.**
+
+*"The best way to predict the future is to build it."*
+
+<br>
+
+🚀 **HARSHITA // MISSION CONTROL**
+
+</div>
