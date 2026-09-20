@@ -80,6 +80,79 @@ RESEARCH MODE    ACTIVE 🟢
 CURIOSITY        ████████████████████  MAX
 ```
 
+### 🛰️ SYSTEM STATUS
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│  HARSHITA // MISSION CONTROL                            │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  STATUS        ● ONLINE                                  │
+│  PRIMARY       ORBYRX                                    │
+│  DOMAIN        SPACE × AI × AUTONOMY                     │
+│  LOCATION      EARTH 🌍                                  │
+│                                                          │
+│  CURRENT OBJECTIVE                                       │
+│  → Building autonomous space systems                     │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+## 👩‍🚀 01 // ABOUT THE OPERATOR
+
+### Hey, I'm Harshita 👋
+
+I'm an engineering student exploring the intersection of **Space Technology, Artificial Intelligence and Autonomous Systems**.
+
+I love turning ambitious ideas into actual engineering projects — from **orbital intelligence and autonomous spacecraft** to **lunar navigation systems and AI research**.
+
+```yaml
+name: Harshita Venkatesh
+
+focus:
+  - Space Technology
+  - Artificial Intelligence
+  - Autonomous Systems
+  - Orbital Mechanics
+
+currently_building:
+  - ORBYRX
+  - Space AI Systems
+  - NLOS Lunar Rover Docking
+
+currently_learning:
+  - Machine Learning
+  - Competitive Programming
+  - Spacecraft Dynamics
+  - Quantum Mechanics
+
+mission:
+  "Build intelligent systems that expand what humanity can do in space."
+```
+
+### 📡 OPERATOR STATUS
+
+```text
+ROLE             Student Engineer
+MODE             Build → Learn → Research → Repeat
+CURRENT BASE     VIT Chennai
+PRIMARY MISSION  ORBYRX 🚀
+RESEARCH MODE    ACTIVE 🟢
+
+CURIOSITY        ████████████████████  MAX
+```
+
+<br>
+
+<div align="center">
+
+### 🌌 `ENGINEERING THE INTELLIGENCE BEHIND AUTONOMOUS SPACE OPERATIONS`
+
+</div>
+
+---
 <br>
 
 <div align="center">
