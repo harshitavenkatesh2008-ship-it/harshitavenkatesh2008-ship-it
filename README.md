@@ -253,5 +253,17 @@ PRIMARY STACK   PYTHON
 FOCUS           SPACE × AI × AUTONOMY
 MISSION         KEEP SHIPPING 🚀
 ```
+<br>
 
+<div align="center">
+
+### 🐍 `CONTRIBUTION ORBIT`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitavenkatesh2008-ship-it/harshitavenkatesh2008-ship-it/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitavenkatesh2008-ship-it/harshitavenkatesh2008-ship-it/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/harshitavenkatesh2008-ship-it/harshitavenkatesh2008-ship-it/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 ---
