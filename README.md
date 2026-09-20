@@ -3,7 +3,10 @@
 # 🚀 HARSHITA VENKATESH
 
 ### `SPACE-TECH × AI/ML × AUTONOMOUS SYSTEMS`
-<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+for+Space+%F0%9F%9A%80;Developing+Autonomous+Spacecraft+Technologies+%F0%9F%9B%B0%EF%B8%8F;Exploring+AI+%C3%97+Orbital+Mechanics+%C3%97+Autonomy;Founder+%40+ORBYRX+%F0%9F%8C%8C" alt="Typing SVG" />
+
+<br>
 
 <a href="#-01--about-the-operator">ABOUT</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -17,85 +20,17 @@
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="#-08--communication-channels">CONNECT</a>
 
-</div>
-
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+for+Space+%F0%9F%9A%80;Developing+Autonomous+Spacecraft+Technologies+%F0%9F%9B%B0%EF%B8%8F;Exploring+AI+%C3%97+Orbital+Mechanics+%C3%97+Autonomy;Founder+%40+ORBYRX+%F0%9F%8C%8C" alt="Typing SVG" />
-
 <br>
 
 > **MISSION CONTROL // ONLINE 🟢**
-> Visitor detected. Welcome to Mission Control. 👋
+
+**Visitor detected. Welcome to Mission Control. 👋**
 
 *Building intelligent autonomous systems for safer, sustainable and scalable space operations.*
 
 </div>
 
 ---
-
-### 🛰️ SYSTEM STATUS
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│  HARSHITA // MISSION CONTROL                            │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  STATUS        ● ONLINE                                  │
-│  PRIMARY       ORBYRX                                    │
-│  DOMAIN        SPACE × AI × AUTONOMY                     │
-│  LOCATION      EARTH 🌍                                  │
-│                                                          │
-│  CURRENT OBJECTIVE                                       │
-│  → Building autonomous space systems                     │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-<br>
-
-## 👩‍🚀 01 // ABOUT THE OPERATOR
-
-### Hey, I'm Harshita 👋
-
-I'm an engineering student exploring the intersection of **Space Technology, Artificial Intelligence and Autonomous Systems**.
-
-I love turning ambitious ideas into actual engineering projects — from **orbital intelligence and autonomous spacecraft** to **lunar navigation systems and AI research**.
-
-```yaml
-name: Harshita Venkatesh
-
-focus:
-  - Space Technology
-  - Artificial Intelligence
-  - Autonomous Systems
-  - Orbital Mechanics
-
-currently_building:
-  - ORBYRX
-  - Space AI Systems
-  - NLOS Lunar Rover Docking
-
-currently_learning:
-  - Machine Learning
-  - Competitive Programming
-  - Spacecraft Dynamics
-  - Quantum Mechanics
-
-mission:
-  "Build intelligent systems that expand what humanity can do in space."
-```
-
-### 📡 OPERATOR STATUS
-
-```text
-ROLE             Student Engineer
-MODE             Build → Learn → Research → Repeat
-CURRENT BASE     VIT Chennai and BS IIT MADRAS
-PRIMARY MISSION  ORBYRX 🚀
-RESEARCH MODE    ACTIVE 🟢
-
-CURIOSITY        ████████████████████  MAX
-```
 
 ### 🛰️ SYSTEM STATUS
 
@@ -170,15 +105,115 @@ CURIOSITY        ████████████████████  M
 </div>
 
 ---
-<br>
+
+## 🚀 02 // ACTIVE MISSIONS
+
+> `MISSION DATABASE // 03 ACTIVE PROGRAMS`
+
+### 🛰️ ORBYRX // MISSION 01
+
+**Autonomous Orbital Servicing & Space Sustainability**
+
+```text
+STATUS          ● ACTIVE DEVELOPMENT
+DOMAIN          SPACE × AI × AUTONOMY
+FOCUS           Autonomous Orbital Servicing
+
+CURRENT MODULE
+└── Target Intelligence V0.1
+    ├── ✓ Rigid-body dynamics
+    ├── ✓ Quaternion attitude representation
+    ├── ◉ Tumbling target simulation
+    ├── ○ State estimation
+    └── ○ Rendezvous intelligence
+```
+
+**Mission Objective**
+
+Develop intelligent spacecraft capable of perceiving, estimating and predicting the motion of non-cooperative orbital targets to support autonomous inspection, rendezvous, servicing and responsible end-of-life operations.
+
+`Python` `Spacecraft Dynamics` `AI/ML` `Computer Vision` `Autonomous Systems`
+
+---
+
+### ☄️ ORBITGUARD X // MISSION 02
+
+**AI-Assisted Space Debris Intelligence & Collision Risk Analysis**
+
+```text
+STATUS          ● PROTOTYPE
+DOMAIN          ORBITAL MECHANICS × AI
+FOCUS           SPACE DEBRIS SAFETY
+
+PIPELINE
+
+TLE DATA
+   ↓
+ORBIT PROPAGATION
+   ↓
+CLOSE-APPROACH ANALYSIS
+   ↓
+RISK INTELLIGENCE
+   ↓
+COLLISION ALERT
+```
+
+**Mission Objective**
+
+Analyze orbital objects and potential close approaches using orbital propagation, encounter parameters and intelligent risk analysis to support safer space operations.
+
+`Python` `SGP4` `Pandas` `Scikit-learn` `Orbital Mechanics`
+
+<p align="center">
+
+<a href="https://github.com/harshitavenkatesh2008-ship-it/ORBITGUARDXX">
+<img src="https://img.shields.io/badge/VIEW_MISSION-ORBITGUARD_X-238636?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+---
+
+### 🌑 NLOS LUNAR DOCKING // MISSION 03
+
+**Non-Line-of-Sight Sensor Fusion for Autonomous Lunar Rover Docking**
+
+```text
+STATUS          ● DEVELOPMENT
+ENVIRONMENT     LUNAR SURFACE
+DOMAIN          ROBOTICS × SENSOR FUSION × AI
+
+NAVIGATION STACK
+
+┌──────────────┐
+│ Magnetic     │──┐
+│ Sensing      │  │
+└──────────────┘  │
+                  ├──→ SENSOR FUSION ──→ AI ──→ DOCK
+┌──────────────┐  │
+│ Subsurface   │──┘
+│ Radar        │
+└──────────────┘
+```
+
+**Mission Objective**
+
+Enable autonomous rover docking when conventional visual navigation becomes unreliable because of darkness, dust or obstructed line-of-sight conditions.
+
+`Sensor Fusion` `AI/ML` `Robotics` `Embedded Systems` `Lunar Systems`
+
+---
 
 <div align="center">
 
-### 🌌 `ENGINEERING THE INTELLIGENCE BEHIND AUTONOMOUS SPACE OPERATIONS`
+### `THREE MISSIONS // ONE DIRECTION`
+
+**Building intelligence for autonomous space systems.**
 
 </div>
 
 ---
+
 ## ⚙️ 03 // TECHNOLOGY ARSENAL
 
 <div align="center">
@@ -195,15 +230,15 @@ CURIOSITY        ████████████████████  M
 
 `Python` • `C` • `C++` • `Git` • `GitHub`
 
-<br>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=opencv,sklearn,pytorch,tensorflow&theme=dark" />
+<img src="https://skillicons.dev/icons?i=opencv,sklearn&theme=dark" />
 
 <br><br>
 
 **AI / MACHINE LEARNING**
 
-`Scikit-learn` • `OpenCV` • `PyTorch` • `TensorFlow`
+`Scikit-learn` • `OpenCV`
 
 </div>
 
@@ -241,11 +276,12 @@ ENGINEERING WORKFLOW
 </div>
 
 ---
+
 ## 📡 04 // DEVELOPMENT TELEMETRY
 
 <div align="center">
 
-### `LIVE FEED // GITHUB ACTIVITY`
+### `DEVELOPMENT TELEMETRY // GITHUB ACTIVITY`
 
 <br>
 
@@ -270,6 +306,7 @@ PRIMARY STACK   PYTHON
 FOCUS           SPACE × AI × AUTONOMY
 MISSION         KEEP SHIPPING 🚀
 ```
+
 <br>
 
 <div align="center">
@@ -277,13 +314,24 @@ MISSION         KEEP SHIPPING 🚀
 ### 🐍 `CONTRIBUTION ORBIT`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitavenkatesh2008-ship-it/harshitavenkatesh2008-ship-it/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitavenkatesh2008-ship-it/harshitavenkatesh2008-ship-it/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/harshitavenkatesh2008-ship-it/harshitavenkatesh2008-ship-it/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/harshitavenkatesh2008-ship-it/harshitavenkatesh2008-ship-it/output/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/harshitavenkatesh2008-ship-it/harshitavenkatesh2008-ship-it/output/github-contribution-grid-snake.svg"
+  >
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/harshitavenkatesh2008-ship-it/harshitavenkatesh2008-ship-it/output/github-contribution-grid-snake.svg"
+  >
 </picture>
 
 </div>
+
 ---
+
 ## 📡 05 // CURRENT TRANSMISSION
 
 > `INCOMING SIGNAL...`
@@ -293,13 +341,12 @@ MISSION         KEEP SHIPPING 🚀
 > `STATUS: DECODED ✓`
 
 ```text
-[12:01:04]  🛰  Developing autonomous space systems
-[12:01:18]  🤖  Exploring AI/ML for spacecraft intelligence
-[12:01:31]  🧠  Strengthening DSA & competitive programming
-[12:01:47]  🌌  Studying spacecraft dynamics & orbital mechanics
-[12:02:03]  ⚛️  Exploring quantum mechanics
-[12:02:19]  🔬  Building toward research & publication
-[12:02:35]  🚀  ORBYRX development // ACTIVE
+[ACTIVE  ]  🛰️ Developing autonomous space systems
+[ACTIVE  ]  🤖 Exploring AI/ML for spacecraft intelligence
+[BUILD   ]  🧠 Strengthening DSA & competitive programming
+[STUDY   ]  🌌 Studying spacecraft dynamics & orbital mechanics
+[STUDY   ]  ⚛️ Exploring quantum mechanics
+[RESEARCH]  🔬 Building toward research & publication
 ```
 
 <div align="center">
@@ -344,22 +391,28 @@ MISSION         KEEP SHIPPING 🚀
 ### 🧠 CURRENT RESEARCH INTERESTS
 
 🛰️ **Autonomous Spacecraft**
-> Onboard perception, estimation and intelligent decision-making.
+
+Onboard perception, estimation and intelligent decision-making.
 
 🤖 **AI for Space Systems**
-> Applying machine learning and computer vision to autonomous space operations.
+
+Applying machine learning and computer vision to autonomous space operations.
 
 🌑 **Lunar Robotics**
-> Robust navigation and docking under degraded or non-line-of-sight conditions.
+
+Robust navigation and docking under degraded or non-line-of-sight conditions.
 
 ☄️ **Space Sustainability**
-> Orbital debris intelligence, servicing and responsible end-of-life operations.
+
+Orbital debris intelligence, servicing and responsible end-of-life operations.
 
 ⚛️ **Quantum Technologies**
-> Exploring quantum mechanics, quantum computing and future computational systems.
+
+Exploring quantum mechanics, quantum computing and future computational systems.
 
 🔬 **Scientific Research**
-> Turning engineering questions into experiments, prototypes and publishable research.
+
+Turning engineering questions into experiments, prototypes and publishable research.
 
 <br>
 
@@ -426,6 +479,7 @@ NEXT OBJECTIVE       SHIP SOMETHING BETTER THAN YESTERDAY
 </div>
 
 ---
+
 ## 📡 08 // COMMUNICATION CHANNELS
 
 <div align="center">
@@ -450,12 +504,18 @@ NEXT OBJECTIVE       SHIP SOMETHING BETTER THAN YESTERDAY
 
 ### 🌌 `END OF TRANSMISSION`
 
-**Thanks for visiting Mission Control.**
+Thanks for visiting **Mission Control**.
 
-*"The best way to predict the future is to build it."*
+**Building. Learning. Researching. Shipping.**
 
 <br>
 
-🚀 **HARSHITA // MISSION CONTROL**
+> *"The best way to predict the future is to build it."*
+
+<br>
+
+🚀 **HARSHITA VENKATESH**
+
+`SPACE × AI × AUTONOMY`
 
 </div>
