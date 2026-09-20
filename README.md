@@ -224,3 +224,34 @@ ENGINEERING WORKFLOW
 </div>
 
 ---
+## 📡 04 // DEVELOPMENT TELEMETRY
+
+<div align="center">
+
+### `LIVE FEED // GITHUB ACTIVITY`
+
+<br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshitavenkatesh2008-ship-it&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitavenkatesh2008-ship-it&layout=compact&theme=github_dark&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitavenkatesh2008-ship-it&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+<br>
+
+### 🛰️ DEVELOPMENT SIGNAL
+
+```text
+SIGNAL          ● CONNECTED
+BUILD MODE      ACTIVE
+PRIMARY STACK   PYTHON
+FOCUS           SPACE × AI × AUTONOMY
+MISSION         KEEP SHIPPING 🚀
+```
+
+---
