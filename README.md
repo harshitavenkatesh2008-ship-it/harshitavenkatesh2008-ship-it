@@ -25,6 +25,7 @@
 <br>
 
 > **MISSION CONTROL // ONLINE 🟢**
+> Visitor detected. Welcome to Mission Control. 👋
 
 *Building intelligent autonomous systems for safer, sustainable and scalable space operations.*
 
