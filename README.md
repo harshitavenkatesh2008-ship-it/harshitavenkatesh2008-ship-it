@@ -3,7 +3,23 @@
 # 🚀 HARSHITA VENKATESH
 
 ### `SPACE-TECH × AI/ML × AUTONOMOUS SYSTEMS`
+<div align="center">
 
+<a href="#-01--about-the-operator">ABOUT</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#-02--active-missions">MISSIONS</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#%EF%B8%8F-03--technology-arsenal">TECH</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#-06--research-radar">RESEARCH</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#-04--development-telemetry">TELEMETRY</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#-08--communication-channels">CONNECT</a>
+
+</div>
+
+<br>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+for+Space+%F0%9F%9A%80;Developing+Autonomous+Spacecraft+Technologies+%F0%9F%9B%B0%EF%B8%8F;Exploring+AI+%C3%97+Orbital+Mechanics+%C3%97+Autonomy;Founder+%40+ORBYRX+%F0%9F%8C%8C" alt="Typing SVG" />
 
 <br>
