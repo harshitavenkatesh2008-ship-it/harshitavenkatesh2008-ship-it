@@ -353,3 +353,59 @@ MISSION         KEEP SHIPPING 🚀
 </div>
 
 ---
+
+## 🗺️ 07 // MISSION LOG
+
+<div align="center">
+
+### `ENGINEERING JOURNEY // 2026 → ∞`
+
+</div>
+
+```text
+2026
+ │
+ ├── 🚀 ORBYRX
+ │    └── Autonomous orbital servicing & spacecraft intelligence
+ │
+ ├── 🏆 NATIONAL HACKATHON FINALIST
+ │    └── Building under pressure. Learning through execution.
+ │
+ ├── ☄️ ORBITGUARD X
+ │    └── Orbital debris intelligence & collision-risk analysis
+ │
+ ├── 🌑 NLOS LUNAR DOCKING
+ │    └── Sensor-fusion navigation for degraded lunar environments
+ │
+ ├── 🤖 AI / ML
+ │    └── Building stronger foundations in intelligent systems
+ │
+ ├── 💻 COMPETITIVE PROGRAMMING
+ │    └── Algorithms • DSA • Problem Solving
+ │
+ ├── 🔬 RESEARCH
+ │    └── Moving from ideas → prototypes → scientific investigation
+ │
+ └── 📡 NEXT SIGNAL
+      └── ███████████████████░  TRANSMISSION INCOMING...
+```
+
+<br>
+
+### 🎯 CURRENT CHECKPOINT
+
+```text
+MISSION PHASE        FOUNDATION → BUILD
+PRIMARY SYSTEM       ORBYRX
+ENGINEERING TRACK    SPACE × AI × AUTONOMY
+RESEARCH TRACK       ACTIVE
+NEXT OBJECTIVE       SHIP SOMETHING BETTER THAN YESTERDAY
+```
+
+<div align="center">
+
+**`THE MISSION IS JUST GETTING STARTED.`** 🚀
+
+</div>
+
+---
